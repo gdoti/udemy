@@ -1,13 +1,18 @@
 ---
-title: "タイトル002"
-date: "2021-04-29"
-thumnail: "../images/image_002.jpg"
+title: "いそわクリニック（お知らせ002）"
+date: "2021-05-02"
+thumnail: "../images/image_005.jpg"
 ---
 
-Gatsby blog 002
-![Sample](../images/image_002.jpg)
+Gatsby blog 004
+![Sample](../images/image_005.jpg)
 ## topic
 
-1. list1
-2. list2
-3. list3
+1. 65歳以上市民の予防接種について
+2. 接種券が到着したタイミングでこちらから連絡いたします。
+3. 来院時は、検温と手指消毒をお願いいたします。
+
+[to home](/)
+
+[isowa clinic](http://www.isowa.net/index.php)
+
